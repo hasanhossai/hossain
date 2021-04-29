@@ -1,0 +1,48 @@
+
+table{
+    text-align: center;
+    margin: 0px;
+    background-color: lightgreen;
+   
+}
+table.hossain{
+    background-color:;
+     padding: 30px;
+    
+}
+table tr.hasan{
+    background-color: red;
+    color:white;
+}
+table td{
+    color: white black;
+    
+}
+
+ul{
+    margin:0px;
+    padding:0px;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px; 
+}
+
+a{
+      background-color:aqua;
+    padding: 10px 25px;
+    display: block;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+
+a:link{
+    background-color:aqua;
+    
+}
+a:hover{
+    background-color: tomato;
+}
